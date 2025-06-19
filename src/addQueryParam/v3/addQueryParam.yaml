@@ -5,7 +5,7 @@ data:
   name: addQueryParam
   version: v3
   displayName: Add Query Param
-  description: This policy allows you to add a query parameter to the request
+  description: This policy allows you to add a query parameter to the request.
   applicableFlows:
    - request
   supportedGateways:
